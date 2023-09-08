@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+const gitDefinition = 'a program that gives the ability to take a snapshot of a folder on a device'
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+const gitHubDefinition = 'a place to remotely store and share snapshots'
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+const gitInitDefinition = 'creates of git repository on a device'
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+const gitCloneDefinition = 'make a copy of a file'
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+const gitStatusDefinition = 'gives information about the curent repository. for example it can inform you of modified files that have not been commited.'
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,8 @@
 */
 
 //CODE HERE
-
+const gitAddDefinition = 'tells git to track those files'
+const gitAddCode = 'git add .'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +65,8 @@
 */
 
 //CODE HERE
-
+const gitCommitDefinition = 'takes a snapshot of the tracked files'
+const gitCommitCode = 'git commit -m "initial commit"'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +75,4 @@
 */
 
 //CODE HERE
+const gitPushDefinition = 'pushes the code from the local repo to the vitual repo'
